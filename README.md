@@ -1,5 +1,15 @@
-__Mukudu Publishing Code Repository__
+__Moodle Plugin Development By Example Course__
 
-Please select the relevant product branch for the code respository.
+dataformat\tsv
 
-#### NOT SUITABLE FOR PRODUCTION ENVIROMENTS ####
+# Data Format Plugin: TSV (Tab Separated Values) #
+
+__About__
+
+An example of a data format plugin developed for the course.
+
+__Description__
+
+The plugin creates a data format for data downloads.
+
+#### NOT SUITABLE FOR A PRODUCTION SYSTEM ####
